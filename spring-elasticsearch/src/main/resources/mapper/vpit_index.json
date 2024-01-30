@@ -1,0 +1,19 @@
+{
+  "properties": {
+    "subjectName": {
+      "type": "keyword"
+    },
+    "scheduleName": {
+      "type": "keyword"
+    },
+    "packageCode": {
+      "type": "keyword"
+    },
+    "partName": {
+      "type": "keyword"
+    },
+    "partCode": {
+      "type": "keyword"
+    }
+  }
+}

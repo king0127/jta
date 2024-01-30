@@ -1,0 +1,313 @@
+---- AspectJ Properties ---
+AspectJ Compiler 1.6.11 built on Tuesday Mar 15, 2011 at 15:31:04 GMT
+---- Dump Properties ---
+Dump file: ajcore.20230525.105243.099.txt
+Dump reason: abort
+Dump on exception: true
+Dump at exit condition: abort
+---- System Properties ---
+idea.version=2022.2
+java.runtime.name=Java(TM) SE Runtime Environment
+sun.boot.library.path=D:\ftp\jdk\jre\bin
+java.vm.version=25.361-b09
+maven.multiModuleProjectDirectory=D:\workspance\pers\spring-jta
+java.vm.vendor=Oracle Corporation
+java.vendor.url=http://java.oracle.com/
+guice.disable.misplaced.annotation.check=true
+path.separator=;
+java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+file.encoding.pkg=sun.io
+user.country=CN
+user.script=
+sun.java.launcher=SUN_STANDARD
+sun.os.patch.level=
+java.vm.specification.name=Java Virtual Machine Specification
+user.dir=D:\workspance\pers\spring-jta
+java.runtime.version=1.8.0_361-b09
+java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+java.endorsed.dirs=D:\ftp\jdk\jre\lib\endorsed
+os.arch=amd64
+java.io.tmpdir=C:\Users\WANGSH~1\AppData\Local\Temp\
+line.separator=
+
+java.vm.specification.vendor=Oracle Corporation
+user.variant=
+os.name=Windows 11
+maven.ext.class.path=D:\ftp\idea\IDEA2022\plugins\maven\lib\maven-event-listener.jar
+classworlds.conf=D:\ftp\maven\apache-maven-3.8.8\bin\m2.conf
+sun.jnu.encoding=GBK
+java.library.path=D:\ftp\jdk\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;D:\ftp\node\;C:\Program Files (x86)\Certbot\bin;C:\Users\wangshuai95012_58016\AppData\Local\Microsoft\WindowsApps;D:\ftp\git\Git\cmd;D:\ftp\vsCode\Microsoft VS Code\bin;C:\Users\wangshuai95012_58016\AppData\Roaming\npm;D:\ftp\jdk\bin;D:\ftp\jdk\lib\tools.jar;D:\ftp\python;D:\ftp\python\Scripts;D:\ftp\Jmeter\lib\ext\ApacheJMeter_core.jar;D:\ftp\Jmeter\lib\jorphan.jar;;.
+maven.conf=D:\ftp\maven\apache-maven-3.8.8/conf
+java.specification.name=Java Platform API Specification
+java.class.version=52.0
+sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+skipTests=true
+os.version=10.0
+user.home=C:\Users\wangshuai95012_58016
+user.timezone=Asia/Shanghai
+java.awt.printerjob=sun.awt.windows.WPrinterJob
+file.encoding=UTF-8
+java.specification.version=1.8
+java.class.path=D:\ftp\maven\apache-maven-3.8.8\boot\plexus-classworlds-2.6.0.jar;D:\ftp\maven\apache-maven-3.8.8\boot\plexus-classworlds.license;D:\ftp\idea\IDEA2022\lib\idea_rt.jar
+user.name=wangshuai95012_58016
+java.vm.specification.version=1.8
+sun.java.command=org.codehaus.classworlds.Launcher -Didea.version=2022.2 -s D:\ftp\maven\apache-maven-3.8.8\conf\settings.xml -DskipTests=true package
+java.home=D:\ftp\jdk\jre
+sun.arch.data.model=64
+user.language=zh
+java.specification.vendor=Oracle Corporation
+awt.toolkit=sun.awt.windows.WToolkit
+java.vm.info=mixed mode
+java.version=1.8.0_361
+java.ext.dirs=D:\ftp\jdk\jre\lib\ext;C:\windows\Sun\Java\lib\ext
+sun.boot.class.path=D:\ftp\jdk\jre\lib\resources.jar;D:\ftp\jdk\jre\lib\rt.jar;D:\ftp\jdk\jre\lib\jsse.jar;D:\ftp\jdk\jre\lib\jce.jar;D:\ftp\jdk\jre\lib\charsets.jar;D:\ftp\jdk\jre\lib\jfr.jar;D:\ftp\jdk\jre\classes
+java.vendor=Oracle Corporation
+maven.home=D:\ftp\maven\apache-maven-3.8.8
+java.specification.maintenance.version=4
+file.separator=\
+java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+sun.io.unicode.encoding=UnicodeLittle
+sun.cpu.endian=little
+sun.desktop=windows
+sun.cpu.isalist=amd64
+---- Command Line ---
+-encoding
+UTF-8
+-classpath
+D:\ftp\maven\MyRepository\org\springframework\boot\spring-boot-starter-web\2.7.11-SNAPSHOT\spring-boot-starter-web-2.7.11-SNAPSHOT.jar;D:\ftp\maven\MyRepository\org\projectlombok\lombok\1.18.26\lombok-1.18.26.jar;D:\ftp\maven\MyRepository\org\springframework\boot\spring-boot-starter-test\2.7.11-SNAPSHOT\spring-boot-starter-test-2.7.11-SNAPSHOT.jar;D:\ftp\maven\MyRepository\org\springframework\spring-aop\5.3.27\spring-aop-5.3.27.jar;D:\ftp\maven\MyRepository\org\aspectj\aspectjweaver\1.9.7\aspectjweaver-1.9.7.jar;D:\ftp\maven\MyRepository\org\springframework\boot\spring-boot-starter-jdbc\2.7.11-SNAPSHOT\spring-boot-starter-jdbc-2.7.11-SNAPSHOT.jar;D:\ftp\maven\MyRepository\org\mybatis\spring\boot\mybatis-spring-boot-starter\2.3.0\mybatis-spring-boot-starter-2.3.0.jar;D:\ftp\maven\MyRepository\com\mysql\mysql-connector-j\8.0.33\mysql-connector-j-8.0.33.jar;D:\ftp\maven\MyRepository\org\springframework\boot\spring-boot-starter-jta-atomikos\2.7.11-SNAPSHOT\spring-boot-starter-jta-atomikos-2.7.11-SNAPSHOT.jar;D:\ftp\maven\MyRepository\org\aspectj\aspectjrt\1.9.7.M3\aspectjrt-1.9.7.M3.jar;D:\ftp\maven\MyRepository\org\aspectj\aspectjtools\1.6.11\aspectjtools-1.6.11.jar;D:\ftp\maven\MyRepository\org\springframework\boot\spring-boot-starter\2.7.11-SNAPSHOT\spring-boot-starter-2.7.11-SNAPSHOT.jar;D:\ftp\maven\MyRepository\org\springframework\boot\spring-boot\2.7.11-SNAPSHOT\spring-boot-2.7.11-SNAPSHOT.jar;D:\ftp\maven\MyRepository\org\springframework\boot\spring-boot-autoconfigure\2.7.11-SNAPSHOT\spring-boot-autoconfigure-2.7.11-SNAPSHOT.jar;D:\ftp\maven\MyRepository\org\springframework\boot\spring-boot-starter-logging\2.7.11-SNAPSHOT\spring-boot-starter-logging-2.7.11-SNAPSHOT.jar;D:\ftp\maven\MyRepository\ch\qos\logback\logback-classic\1.2.12\logback-classic-1.2.12.jar;D:\ftp\maven\MyRepository\ch\qos\logback\logback-core\1.2.12\logback-core-1.2.12.jar;D:\ftp\maven\MyRepository\org\apache\logging\log4j\log4j-to-slf4j\2.17.2\log4j-to-slf4j-2.17.2.jar;D:\ftp\maven\MyRepository\org\apache\logging\log4j\log4j-api\2.17.2\log4j-api-2.17.2.jar;D:\ftp\maven\MyRepository\org\slf4j\jul-to-slf4j\1.7.36\jul-to-slf4j-1.7.36.jar;D:\ftp\maven\MyRepository\jakarta\annotation\jakarta.annotation-api\1.3.5\jakarta.annotation-api-1.3.5.jar;D:\ftp\maven\MyRepository\org\yaml\snakeyaml\1.30\snakeyaml-1.30.jar;D:\ftp\maven\MyRepository\org\springframework\boot\spring-boot-starter-json\2.7.11-SNAPSHOT\spring-boot-starter-json-2.7.11-SNAPSHOT.jar;D:\ftp\maven\MyRepository\com\fasterxml\jackson\core\jackson-databind\2.13.5\jackson-databind-2.13.5.jar;D:\ftp\maven\MyRepository\com\fasterxml\jackson\core\jackson-annotations\2.13.5\jackson-annotations-2.13.5.jar;D:\ftp\maven\MyRepository\com\fasterxml\jackson\core\jackson-core\2.13.5\jackson-core-2.13.5.jar;D:\ftp\maven\MyRepository\com\fasterxml\jackson\datatype\jackson-datatype-jdk8\2.13.5\jackson-datatype-jdk8-2.13.5.jar;D:\ftp\maven\MyRepository\com\fasterxml\jackson\datatype\jackson-datatype-jsr310\2.13.5\jackson-datatype-jsr310-2.13.5.jar;D:\ftp\maven\MyRepository\com\fasterxml\jackson\module\jackson-module-parameter-names\2.13.5\jackson-module-parameter-names-2.13.5.jar;D:\ftp\maven\MyRepository\org\springframework\boot\spring-boot-starter-tomcat\2.7.11-SNAPSHOT\spring-boot-starter-tomcat-2.7.11-SNAPSHOT.jar;D:\ftp\maven\MyRepository\org\apache\tomcat\embed\tomcat-embed-core\9.0.74\tomcat-embed-core-9.0.74.jar;D:\ftp\maven\MyRepository\org\apache\tomcat\embed\tomcat-embed-el\9.0.74\tomcat-embed-el-9.0.74.jar;D:\ftp\maven\MyRepository\org\apache\tomcat\embed\tomcat-embed-websocket\9.0.74\tomcat-embed-websocket-9.0.74.jar;D:\ftp\maven\MyRepository\org\springframework\spring-web\5.3.27\spring-web-5.3.27.jar;D:\ftp\maven\MyRepository\org\springframework\spring-webmvc\5.3.27\spring-webmvc-5.3.27.jar;D:\ftp\maven\MyRepository\org\springframework\spring-context\5.3.27\spring-context-5.3.27.jar;D:\ftp\maven\MyRepository\org\springframework\spring-expression\5.3.27\spring-expression-5.3.27.jar;D:\ftp\maven\MyRepository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;D:\ftp\maven\MyRepository\org\springframework\spring-core\5.3.27\spring-core-5.3.27.jar;D:\ftp\maven\MyRepository\org\springframework\spring-jcl\5.3.27\spring-jcl-5.3.27.jar;D:\ftp\maven\MyRepository\org\springframework\spring-beans\5.3.27\spring-beans-5.3.27.jar;D:\ftp\maven\MyRepository\com\zaxxer\HikariCP\4.0.3\HikariCP-4.0.3.jar;D:\ftp\maven\MyRepository\org\springframework\spring-jdbc\5.3.27\spring-jdbc-5.3.27.jar;D:\ftp\maven\MyRepository\org\springframework\spring-tx\5.3.27\spring-tx-5.3.27.jar;D:\ftp\maven\MyRepository\org\mybatis\spring\boot\mybatis-spring-boot-autoconfigure\2.3.0\mybatis-spring-boot-autoconfigure-2.3.0.jar;D:\ftp\maven\MyRepository\org\mybatis\mybatis\3.5.11\mybatis-3.5.11.jar;D:\ftp\maven\MyRepository\org\mybatis\mybatis-spring\2.1.0\mybatis-spring-2.1.0.jar;D:\ftp\maven\MyRepository\com\atomikos\transactions-jms\4.0.6\transactions-jms-4.0.6.jar;D:\ftp\maven\MyRepository\com\atomikos\transactions-jta\4.0.6\transactions-jta-4.0.6.jar;D:\ftp\maven\MyRepository\com\atomikos\transactions-api\4.0.6\transactions-api-4.0.6.jar;D:\ftp\maven\MyRepository\com\atomikos\atomikos-util\4.0.6\atomikos-util-4.0.6.jar;D:\ftp\maven\MyRepository\com\atomikos\transactions-jdbc\4.0.6\transactions-jdbc-4.0.6.jar;D:\ftp\maven\MyRepository\jakarta\transaction\jakarta.transaction-api\1.3.3\jakarta.transaction-api-1.3.3.jar;D:\workspance\pers\spring-jta\jta-common\target\classes
+-inpath
+D:\workspance\pers\spring-jta\jta-common\target/classes
+-d
+D:\workspance\pers\spring-jta\jta-common\target\classes
+---- Full Classpath ---
+D:\ftp\jdk\jre\lib\resources.jar(3547798 bytes)
+D:\ftp\jdk\jre\lib\rt.jar(64900387 bytes)
+D:\ftp\jdk\jre\lib\jsse.jar(1932638 bytes)
+D:\ftp\jdk\jre\lib\jce.jar(122628 bytes)
+D:\ftp\jdk\jre\lib\charsets.jar(3090399 bytes)
+D:\ftp\jdk\jre\lib\jfr.jar(573192 bytes)
+D:\ftp\jdk\jre\classes(missing)
+D:\workspance\pers\spring-jta\jta-common\target\classes(2 entries)
+D:\ftp\jdk\jre\lib\ext\access-bridge-64.jar(197120 bytes)
+D:\ftp\jdk\jre\lib\ext\cldrdata.jar(3860609 bytes)
+D:\ftp\jdk\jre\lib\ext\dnsns.jar(8488 bytes)
+D:\ftp\jdk\jre\lib\ext\jaccess.jar(44517 bytes)
+D:\ftp\jdk\jre\lib\ext\jfxrt.jar(18226401 bytes)
+D:\ftp\jdk\jre\lib\ext\localedata.jar(2248044 bytes)
+D:\ftp\jdk\jre\lib\ext\nashorn.jar(2035056 bytes)
+D:\ftp\jdk\jre\lib\ext\sunec.jar(43191 bytes)
+D:\ftp\jdk\jre\lib\ext\sunjce_provider.jar(295674 bytes)
+D:\ftp\jdk\jre\lib\ext\sunmscapi.jar(49456 bytes)
+D:\ftp\jdk\jre\lib\ext\sunpkcs11.jar(294875 bytes)
+D:\ftp\jdk\jre\lib\ext\zipfs.jar(70025 bytes)
+D:\ftp\maven\MyRepository\org\springframework\boot\spring-boot-starter-web\2.7.11-SNAPSHOT\spring-boot-starter-web-2.7.11-SNAPSHOT.jar(4824 bytes)
+D:\ftp\maven\MyRepository\org\projectlombok\lombok\1.18.26\lombok-1.18.26.jar(1975593 bytes)
+D:\ftp\maven\MyRepository\org\springframework\boot\spring-boot-starter-test\2.7.11-SNAPSHOT\spring-boot-starter-test-2.7.11-SNAPSHOT.jar(4811 bytes)
+D:\ftp\maven\MyRepository\org\springframework\spring-aop\5.3.27\spring-aop-5.3.27.jar(383434 bytes)
+D:\ftp\maven\MyRepository\org\aspectj\aspectjweaver\1.9.7\aspectjweaver-1.9.7.jar(2087074 bytes)
+D:\ftp\maven\MyRepository\org\springframework\boot\spring-boot-starter-jdbc\2.7.11-SNAPSHOT\spring-boot-starter-jdbc-2.7.11-SNAPSHOT.jar(4788 bytes)
+D:\ftp\maven\MyRepository\org\mybatis\spring\boot\mybatis-spring-boot-starter\2.3.0\mybatis-spring-boot-starter-2.3.0.jar(2388 bytes)
+D:\ftp\maven\MyRepository\com\mysql\mysql-connector-j\8.0.33\mysql-connector-j-8.0.33.jar(2481560 bytes)
+D:\ftp\maven\MyRepository\org\springframework\boot\spring-boot-starter-jta-atomikos\2.7.11-SNAPSHOT\spring-boot-starter-jta-atomikos-2.7.11-SNAPSHOT.jar(4775 bytes)
+D:\ftp\maven\MyRepository\org\aspectj\aspectjrt\1.9.7.M3\aspectjrt-1.9.7.M3.jar(122878 bytes)
+D:\ftp\maven\MyRepository\org\aspectj\aspectjtools\1.6.11\aspectjtools-1.6.11.jar(8918431 bytes)
+D:\ftp\maven\MyRepository\org\springframework\boot\spring-boot-starter\2.7.11-SNAPSHOT\spring-boot-starter-2.7.11-SNAPSHOT.jar(4790 bytes)
+D:\ftp\maven\MyRepository\org\springframework\boot\spring-boot\2.7.11-SNAPSHOT\spring-boot-2.7.11-SNAPSHOT.jar(1456202 bytes)
+D:\ftp\maven\MyRepository\org\springframework\boot\spring-boot-autoconfigure\2.7.11-SNAPSHOT\spring-boot-autoconfigure-2.7.11-SNAPSHOT.jar(1682297 bytes)
+D:\ftp\maven\MyRepository\org\springframework\boot\spring-boot-starter-logging\2.7.11-SNAPSHOT\spring-boot-starter-logging-2.7.11-SNAPSHOT.jar(4780 bytes)
+D:\ftp\maven\MyRepository\ch\qos\logback\logback-classic\1.2.12\logback-classic-1.2.12.jar(231811 bytes)
+D:\ftp\maven\MyRepository\ch\qos\logback\logback-core\1.2.12\logback-core-1.2.12.jar(448860 bytes)
+D:\ftp\maven\MyRepository\org\apache\logging\log4j\log4j-to-slf4j\2.17.2\log4j-to-slf4j-2.17.2.jar(18010 bytes)
+D:\ftp\maven\MyRepository\org\apache\logging\log4j\log4j-api\2.17.2\log4j-api-2.17.2.jar(302511 bytes)
+D:\ftp\maven\MyRepository\org\slf4j\jul-to-slf4j\1.7.36\jul-to-slf4j-1.7.36.jar(4519 bytes)
+D:\ftp\maven\MyRepository\jakarta\annotation\jakarta.annotation-api\1.3.5\jakarta.annotation-api-1.3.5.jar(25058 bytes)
+D:\ftp\maven\MyRepository\org\yaml\snakeyaml\1.30\snakeyaml-1.30.jar(331605 bytes)
+D:\ftp\maven\MyRepository\org\springframework\boot\spring-boot-starter-json\2.7.11-SNAPSHOT\spring-boot-starter-json-2.7.11-SNAPSHOT.jar(4766 bytes)
+D:\ftp\maven\MyRepository\com\fasterxml\jackson\core\jackson-databind\2.13.5\jackson-databind-2.13.5.jar(1537543 bytes)
+D:\ftp\maven\MyRepository\com\fasterxml\jackson\core\jackson-annotations\2.13.5\jackson-annotations-2.13.5.jar(75718 bytes)
+D:\ftp\maven\MyRepository\com\fasterxml\jackson\core\jackson-core\2.13.5\jackson-core-2.13.5.jar(375186 bytes)
+D:\ftp\maven\MyRepository\com\fasterxml\jackson\datatype\jackson-datatype-jdk8\2.13.5\jackson-datatype-jdk8-2.13.5.jar(34800 bytes)
+D:\ftp\maven\MyRepository\com\fasterxml\jackson\datatype\jackson-datatype-jsr310\2.13.5\jackson-datatype-jsr310-2.13.5.jar(121206 bytes)
+D:\ftp\maven\MyRepository\com\fasterxml\jackson\module\jackson-module-parameter-names\2.13.5\jackson-module-parameter-names-2.13.5.jar(9513 bytes)
+D:\ftp\maven\MyRepository\org\springframework\boot\spring-boot-starter-tomcat\2.7.11-SNAPSHOT\spring-boot-starter-tomcat-2.7.11-SNAPSHOT.jar(4815 bytes)
+D:\ftp\maven\MyRepository\org\apache\tomcat\embed\tomcat-embed-core\9.0.74\tomcat-embed-core-9.0.74.jar(3450586 bytes)
+D:\ftp\maven\MyRepository\org\apache\tomcat\embed\tomcat-embed-el\9.0.74\tomcat-embed-el-9.0.74.jar(256028 bytes)
+D:\ftp\maven\MyRepository\org\apache\tomcat\embed\tomcat-embed-websocket\9.0.74\tomcat-embed-websocket-9.0.74.jar(279499 bytes)
+D:\ftp\maven\MyRepository\org\springframework\spring-web\5.3.27\spring-web-5.3.27.jar(1642422 bytes)
+D:\ftp\maven\MyRepository\org\springframework\spring-webmvc\5.3.27\spring-webmvc-5.3.27.jar(1029835 bytes)
+D:\ftp\maven\MyRepository\org\springframework\spring-context\5.3.27\spring-context-5.3.27.jar(1275206 bytes)
+D:\ftp\maven\MyRepository\org\springframework\spring-expression\5.3.27\spring-expression-5.3.27.jar(293025 bytes)
+D:\ftp\maven\MyRepository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar(41125 bytes)
+D:\ftp\maven\MyRepository\org\springframework\spring-core\5.3.27\spring-core-5.3.27.jar(1488015 bytes)
+D:\ftp\maven\MyRepository\org\springframework\spring-jcl\5.3.27\spring-jcl-5.3.27.jar(24438 bytes)
+D:\ftp\maven\MyRepository\org\springframework\spring-beans\5.3.27\spring-beans-5.3.27.jar(703417 bytes)
+D:\ftp\maven\MyRepository\com\zaxxer\HikariCP\4.0.3\HikariCP-4.0.3.jar(159222 bytes)
+D:\ftp\maven\MyRepository\org\springframework\spring-jdbc\5.3.27\spring-jdbc-5.3.27.jar(428231 bytes)
+D:\ftp\maven\MyRepository\org\springframework\spring-tx\5.3.27\spring-tx-5.3.27.jar(333533 bytes)
+D:\ftp\maven\MyRepository\org\mybatis\spring\boot\mybatis-spring-boot-autoconfigure\2.3.0\mybatis-spring-boot-autoconfigure-2.3.0.jar(30283 bytes)
+D:\ftp\maven\MyRepository\org\mybatis\mybatis\3.5.11\mybatis-3.5.11.jar(1770832 bytes)
+D:\ftp\maven\MyRepository\org\mybatis\mybatis-spring\2.1.0\mybatis-spring-2.1.0.jar(74929 bytes)
+D:\ftp\maven\MyRepository\com\atomikos\transactions-jms\4.0.6\transactions-jms-4.0.6.jar(64808 bytes)
+D:\ftp\maven\MyRepository\com\atomikos\transactions-jta\4.0.6\transactions-jta-4.0.6.jar(115807 bytes)
+D:\ftp\maven\MyRepository\com\atomikos\transactions-api\4.0.6\transactions-api-4.0.6.jar(42624 bytes)
+D:\ftp\maven\MyRepository\com\atomikos\atomikos-util\4.0.6\atomikos-util-4.0.6.jar(40334 bytes)
+D:\ftp\maven\MyRepository\com\atomikos\transactions-jdbc\4.0.6\transactions-jdbc-4.0.6.jar(39915 bytes)
+D:\ftp\maven\MyRepository\jakarta\transaction\jakarta.transaction-api\1.3.3\jakarta.transaction-api-1.3.3.jar(15392 bytes)
+D:\workspance\pers\spring-jta\jta-common\target\classes(2 entries)
+---- Compiler Messages ---
+warning bad version number found in D:\ftp\maven\MyRepository\org\aspectj\aspectjrt\1.9.7.M3\aspectjrt-1.9.7.M3.jar expected 1.6.11 found 1.9.7.M3
+info zipfile classpath entry does not exist: D:\ftp\jdk\jre\classes
+info Pipelining compilation
+error at com\jsoft\plgue\aop\LogAspect.java::0 the @annotation pointcut expression is only supported at Java 5 compliance level or above
+info weaver operating in reweavable mode.  Need to verify any required types exist.
+abort trouble in: 
+public class com.jsoft.plgue.aop.LogAspect extends java.lang.Object:
+  private static final org.slf4j.Logger log
+  public void <init>():
+                    ALOAD_0     // Lcom/jsoft/plgue/aop/LogAspect; this   (line 21)
+                    INVOKESPECIAL java.lang.Object.<init> ()V
+                    RETURN
+  end public void <init>()
+
+  public void logCut():
+                    RETURN   (line 27)
+  end public void logCut()
+
+  public Object doLock(org.aspectj.lang.ProceedingJoinPoint) throws java.lang.Throwable:
+                    INVOKESTATIC com.jsoft.plgue.aop.LogAspect.ajc$inlineAccessFieldGet$com_jsoft_plgue_aop_LogAspect$com_jsoft_plgue_aop_LogAspect$log ()Lorg/slf4j/Logger;   (line 32)
+                    LDC " 打印日志切面： ------------------------------- "
+                    INVOKEINTERFACE org.slf4j.Logger.info (Ljava/lang/String;)V
+                    ALOAD_1     // Lorg/aspectj/lang/ProceedingJoinPoint; joinPoint   (line 33)
+                    INVOKEINTERFACE org.aspectj.lang.ProceedingJoinPoint.getSignature ()Lorg/aspectj/lang/Signature;
+                    ASTORE_2
+                    ALOAD_2     // Lorg/aspectj/lang/Signature; signature   (line 34)
+                    CHECKCAST org.aspectj.lang.reflect.MethodSignature
+                    ASTORE_3
+                    ALOAD_3     // Lorg/aspectj/lang/reflect/MethodSignature; methodSignature   (line 35)
+                    INVOKEINTERFACE org.aspectj.lang.reflect.MethodSignature.getMethod ()Ljava/lang/reflect/Method;
+                    ASTORE 4
+                    ALOAD 4     // Ljava/lang/reflect/Method; method   (line 36)
+                    LDC com.jsoft.plgue.annotation.LogAnnotation
+                    INVOKEVIRTUAL java.lang.reflect.Method.getAnnotation (Ljava/lang/Class;)Ljava/lang/annotation/Annotation;
+                    CHECKCAST com.jsoft.plgue.annotation.LogAnnotation
+                    ASTORE 5
+                    ALOAD 5     // Lcom/jsoft/plgue/annotation/LogAnnotation; logAnnotation   (line 37)
+                    INVOKEINTERFACE com.jsoft.plgue.annotation.LogAnnotation.name ()Ljava/lang/String;
+                    ASTORE 6
+                    ALOAD_1     // Lorg/aspectj/lang/ProceedingJoinPoint; joinPoint   (line 38)
+                    INVOKEINTERFACE org.aspectj.lang.ProceedingJoinPoint.proceed ()Ljava/lang/Object;
+                    ARETURN
+  end public Object doLock(org.aspectj.lang.ProceedingJoinPoint) throws java.lang.Throwable
+
+  static void <clinit>():
+                    LDC com.jsoft.plgue.aop.LogAspect   (line 19)
+                    INVOKESTATIC org.slf4j.LoggerFactory.getLogger (Ljava/lang/Class;)Lorg/slf4j/Logger;
+                    PUTSTATIC com.jsoft.plgue.aop.LogAspect.log Lorg/slf4j/Logger;
+                    NOP
+    catch java.lang.Throwable -> E0
+    |               INVOKESTATIC com.jsoft.plgue.aop.LogAspect.ajc$postClinit ()V
+    |               GOTO L0
+    catch java.lang.Throwable -> E0
+                E0: ASTORE_0
+                    ALOAD_0
+                    PUTSTATIC com.jsoft.plgue.aop.LogAspect.ajc$initFailureCause Ljava/lang/Throwable;
+                L0: RETURN
+  end static void <clinit>()
+
+  public static com.jsoft.plgue.aop.LogAspect aspectOf()    org.aspectj.weaver.AjAttribute$AjSynthetic@273a5a8a
+:
+                    GETSTATIC com.jsoft.plgue.aop.LogAspect.ajc$perSingletonInstance Lcom/jsoft/plgue/aop/LogAspect;
+                    IFNONNULL L0
+                    NEW org.aspectj.lang.NoAspectBoundException
+                    DUP
+                    LDC "com.jsoft.plgue.aop.LogAspect"
+                    GETSTATIC com.jsoft.plgue.aop.LogAspect.ajc$initFailureCause Ljava/lang/Throwable;
+                    INVOKESPECIAL org.aspectj.lang.NoAspectBoundException.<init> (Ljava/lang/String;Ljava/lang/Throwable;)V
+                    ATHROW
+                L0: GETSTATIC com.jsoft.plgue.aop.LogAspect.ajc$perSingletonInstance Lcom/jsoft/plgue/aop/LogAspect;
+                    ARETURN
+  end public static com.jsoft.plgue.aop.LogAspect aspectOf()
+
+  public static boolean hasAspect()    org.aspectj.weaver.AjAttribute$AjSynthetic@12a2585b
+:
+                    GETSTATIC com.jsoft.plgue.aop.LogAspect.ajc$perSingletonInstance Lcom/jsoft/plgue/aop/LogAspect;
+                    IFNULL L0
+                    ICONST_1
+                    IRETURN
+                L0: ICONST_0
+                    IRETURN
+  end public static boolean hasAspect()
+
+  private static void ajc$postClinit()    org.aspectj.weaver.AjAttribute$AjSynthetic@6d091cad
+:
+                    NEW com.jsoft.plgue.aop.LogAspect
+                    DUP
+                    INVOKESPECIAL com.jsoft.plgue.aop.LogAspect.<init> ()V
+                    PUTSTATIC com.jsoft.plgue.aop.LogAspect.ajc$perSingletonInstance Lcom/jsoft/plgue/aop/LogAspect;
+                    RETURN
+  end private static void ajc$postClinit()
+end public class com.jsoft.plgue.aop.LogAspect
+ -- (ClassFormatException) File: 'java/lang/reflect/AnnotatedElement.class': Invalid byte tag in constant pool: 15
+File: 'java/lang/reflect/AnnotatedElement.class': Invalid byte tag in constant pool: 15
+org.aspectj.apache.bcel.classfile.ClassFormatException: File: 'java/lang/reflect/AnnotatedElement.class': Invalid byte tag in constant pool: 15
+	at org.aspectj.apache.bcel.classfile.ClassParser.readConstantPool(ClassParser.java:192)
+	at org.aspectj.apache.bcel.classfile.ClassParser.parse(ClassParser.java:131)
+	at org.aspectj.weaver.bcel.BcelWorld.lookupJavaClass(BcelWorld.java:424)
+	at org.aspectj.weaver.bcel.BcelWorld.resolveDelegate(BcelWorld.java:376)
+	at org.aspectj.weaver.World.resolveToReferenceType(World.java:467)
+	at org.aspectj.weaver.World.resolve(World.java:308)
+	at org.aspectj.weaver.World.resolve(World.java:218)
+	at org.aspectj.weaver.bcel.BcelObjectType.getDeclaredInterfaces(BcelObjectType.java:268)
+	at org.aspectj.weaver.ReferenceType.getDeclaredInterfaces(ReferenceType.java:624)
+	at org.aspectj.weaver.ResolvedType.addAndRecurse(ResolvedType.java:410)
+	at org.aspectj.weaver.ResolvedType.addAndRecurse(ResolvedType.java:406)
+	at org.aspectj.weaver.ResolvedType.addAndRecurse(ResolvedType.java:406)
+	at org.aspectj.weaver.ResolvedType.getMethodsWithoutIterator(ResolvedType.java:367)
+	at org.aspectj.weaver.bcel.BcelAccessForInlineMunger.openAroundAdvice(BcelAccessForInlineMunger.java:155)
+	at org.aspectj.weaver.bcel.BcelAccessForInlineMunger.munge(BcelAccessForInlineMunger.java:86)
+	at org.aspectj.weaver.bcel.BcelClassWeaver.weave(BcelClassWeaver.java:434)
+	at org.aspectj.weaver.bcel.BcelClassWeaver.weave(BcelClassWeaver.java:100)
+	at org.aspectj.weaver.bcel.BcelWeaver.weave(BcelWeaver.java:1687)
+	at org.aspectj.weaver.bcel.BcelWeaver.weaveWithoutDump(BcelWeaver.java:1631)
+	at org.aspectj.weaver.bcel.BcelWeaver.weaveAndNotify(BcelWeaver.java:1394)
+	at org.aspectj.weaver.bcel.BcelWeaver.weave(BcelWeaver.java:1151)
+	at org.aspectj.ajdt.internal.compiler.AjPipeliningCompilerAdapter.weaveQueuedEntries(AjPipeliningCompilerAdapter.java:514)
+	at org.aspectj.ajdt.internal.compiler.AjPipeliningCompilerAdapter.afterCompiling(AjPipeliningCompilerAdapter.java:375)
+	at org.aspectj.ajdt.internal.compiler.CompilerAdapter.ajc$afterReturning$org_aspectj_ajdt_internal_compiler_CompilerAdapter$2$f9cc9ca0(CompilerAdapter.aj:73)
+	at org.aspectj.org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:430)
+	at org.aspectj.ajdt.internal.core.builder.AjBuildManager.performCompilation(AjBuildManager.java:1021)
+	at org.aspectj.ajdt.internal.core.builder.AjBuildManager.performBuild(AjBuildManager.java:268)
+	at org.aspectj.ajdt.internal.core.builder.AjBuildManager.batchBuild(AjBuildManager.java:181)
+	at org.aspectj.ajdt.ajc.AjdtCommand.doCommand(AjdtCommand.java:112)
+	at org.aspectj.ajdt.ajc.AjdtCommand.runCommand(AjdtCommand.java:60)
+	at org.aspectj.tools.ajc.Main.run(Main.java:371)
+	at org.aspectj.tools.ajc.Main.runMain(Main.java:248)
+	at org.codehaus.mojo.aspectj.AbstractAjcCompiler.execute(AbstractAjcCompiler.java:405)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.doExecute2(MojoExecutor.java:370)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.doExecute(MojoExecutor.java:351)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:215)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:171)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:163)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:299)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:193)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:106)
+	at org.apache.maven.cli.MavenCli.execute(MavenCli.java:963)
+	at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:296)
+	at org.apache.maven.cli.MavenCli.main(MavenCli.java:199)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
+	at org.codehaus.classworlds.Launcher.main(Launcher.java:47)
+
+info woven aspect com.jsoft.plgue.aop.LogAspect (from D:\workspance\pers\spring-jta\jta-common\target\classes\com\jsoft\plgue\aop\LogAspect.class)
+info woven class com.jsoft.plgue.annotation.LogAnnotation (from D:\workspance\pers\spring-jta\jta-common\target\classes\com\jsoft\plgue\annotation\LogAnnotation.class)

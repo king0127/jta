@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.jsoft.plgue.mapper.PartMapper">
+    <resultMap id="BaseResultMap" type="com.jsoft.plgue.domain.resp.PartPO">
+        <id column="id" jdbcType="INTEGER" property="id"/>
+        <result column="part_code" jdbcType="VARCHAR" property="partCode"/>
+        <result column="part_name" jdbcType="VARCHAR" property="partName"/>
+        <result column="is_del" jdbcType="INTEGER" property="isDel"/>
+    </resultMap>
+    <update id="batchUpdate">
+        <foreach collection="poList" item="item" separator=";">
+            update t_part set part_code = #{item.partCode}, part_name = #{item.partName}
+            where id = #{item.id}
+        </foreach>
+
+
+    </update>
+
+    <select id="queryPart" resultMap="BaseResultMap">
+        select * from t_part
+        where is_del = 0
+    </select>
+</mapper>
