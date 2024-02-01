@@ -16,7 +16,7 @@ public class ThSingleton {
 
 
     public static ThSingleton getThSingleton() {
-        return  (ThSingleton)local.get();
+        return local.get();
     }
 
 
